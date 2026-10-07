@@ -1,6 +1,7 @@
 # Olá, eu sou Beatriz! 👋
 
 Desenvolvedora **fullstack** com foco em **backend** | [Salvador/Remoto] 🇧🇷
+
 Gosto de construir aplicações robustas, bem testadas e fáceis de manter.
 
 ## 👩‍💻 Sobre mim
