@@ -12,4 +12,4 @@ Gosto de construir aplicações robustas, bem testadas e fáceis de manter.
 
 ## 📫 Contato
 
-[LinkedIn] https://l1nk.dev/MeuLinkedin · [E-mail](bs431023@gmail.com)
+https://l1nk.dev/MeuLinkedin · (bs431023@gmail.com)
