@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Beatriz! 👋
 
-<!--
-**beatrizdev-code/beatrizdev-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora **fullstack** com foco em **backend** | [Salvador/Remoto] 🇧🇷
 
-Here are some ideas to get you started:
+Gosto de construir aplicações robustas, bem testadas e fáceis de manter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+
+**Linhuagens:** [Python | SQL | Flask | JS]
+**DevOps:** Docker · GitHub Actions 
+**Boas práticas:** testes automatizados, Clean Architecture, REST.
+
+## 📫 Contato
+
+[LinkedIn] https://l1nk.dev/MeuLinkedin · [E-mail](bs431023@gmail.com)
